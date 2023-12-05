@@ -2253,11 +2253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\cache_test.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\cache_test.csproj",
       "projectName": "cache_test",
-      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\cache_test.csproj",
+      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\cache_test.csproj",
       "packagesPath": "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\obj\\",
+      "outputPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Caching.GraphQL.Management.ASP.NET.Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fatih YELBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2318,7 +2318,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
